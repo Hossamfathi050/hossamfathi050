@@ -1,9 +1,15 @@
 
 Here are some ideas to get you started:
 <h3>
-- 🔭 I’m currently working on Minstry of Education
-- 🌱 I’m currently learning Programming Languge
-- 💬 Ask me about Education - Learnning...
+- 🔭 I’m currently working on Minstry of Education</h3>
+<h3>
+
+- 🌱 I’m currently learning Programming Languge</h3>
+<h3>
+
+- 💬 Ask me about Education - Learnning...</h3>
+<h3>
+
 - ⚡ Thanks For All....
 </h3>
 <br>
